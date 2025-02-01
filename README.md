@@ -54,8 +54,9 @@ dependencies:
 flutter_dino_run/
 │── assets/            # Game assets (images, sounds, fonts)
 │── lib/
+|-- ├── models/    
 │   ├── game/          # Game logic and components
-│   ├── ui/            # UI elements (menus, score, etc.)
+│   ├── widgets/            # UI elements (menus, score, etc.)
 │   ├── main.dart      # Main entry point
 │── pubspec.yaml       # Project dependencies
 │── README.md          # Project documentation
