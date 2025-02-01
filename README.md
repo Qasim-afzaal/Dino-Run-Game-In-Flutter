@@ -4,8 +4,6 @@ A simple and fun **Dino Run** game built using **Flutter** and the **Flame** gam
 
 ## 📸 Screenshots
 
-![Game Screenshot](assets/images/dino_run_screenshot.png)
-
 ## 🚀 Features
 - 🏃 **Endless Runner Gameplay**
 - 🎨 **Pixel Art & Parallax Scrolling**
