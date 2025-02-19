@@ -4,7 +4,6 @@ import '/game/enemy.dart';
 import '/game/dino_run.dart';
 import '/models/enemy_data.dart';
 
-/// Manages enemy spawning at intervals based on player's score.
 class EnemyManager extends Component with HasGameReference<DinoRun> {
   final List<EnemyData> _data = [];
   final Random _random = Random();
