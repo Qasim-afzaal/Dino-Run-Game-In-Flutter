@@ -27,11 +27,7 @@ dependencies:
 
 ## 🛠 Installation & Setup
 
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/Qasim-afzaal/flutter_dino_run.git
-   cd flutter_dino_run
-   ```
+
 
 2. **Install dependencies**
    ```sh
